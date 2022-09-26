@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ich habe grüne haare
+=======
+Hallo lasst uns einen kleinen Konflikt verursachen :).
+>>>>>>> test
